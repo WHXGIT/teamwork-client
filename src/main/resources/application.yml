@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+logging:
+  level:
+    org.springframework.boot.autoconfigure: ERROR
