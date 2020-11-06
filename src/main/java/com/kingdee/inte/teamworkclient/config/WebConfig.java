@@ -199,7 +199,6 @@ public class WebConfig implements WebMvcConfigurer {
 	 * Method Description: Created by whx
 	 * 〈配置跨域请求〉
 	 *
-	 * @param converters 转换器列表
 	 * @return void
 	 * @throws
 	 * @date 03/01/2019 10:15
